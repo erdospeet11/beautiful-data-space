@@ -1,0 +1,21 @@
+# Data Science Core
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
+
+# Jupyter and IPython
+jupyter>=1.0.0
+ipython>=8.0.0
+nbconvert>=7.0.0
+
+# API and Environment
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# DevOps and Development
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+pre-commit>=3.0.0 
