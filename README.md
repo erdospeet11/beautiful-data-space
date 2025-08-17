@@ -2,6 +2,7 @@
 
 A beautiful data visualization project focused on space data. It combines interactive plots, regression analysis, and estimations using real NASA datasets.
 
+Data primarly from https://api.nasa.gov/
 ## Features
 
 - **Jupyter Notebooks**: Data exploration, regression, and estimation using Python.
