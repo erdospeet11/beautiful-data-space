@@ -1,0 +1,3 @@
+flrID,catalog,instruments,beginTime,peakTime,endTime,classType,sourceLocation,activeRegionNum,note,submissionTime,versionId,link,linkedEvents,sentNotifications
+2010-08-07T17:55:00-FLR-001,M2M_CATALOG,GOES14: SEM/XRS 1.0-8.0,2010-08-07T17:55Z,2010-08-07T18:24Z,,M1.0,N14E37,11093,,2013-07-18T19:13Z,1,https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/716/1,,20100807-AL-001 (2010-08-07T20:35Z) https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/717/1
+2010-08-07T17:55:00-FLR-001,M2M_CATALOG,GOES14: SEM/XRS 1.0-8.0,2010-08-07T17:55Z,2010-08-07T18:24Z,2010-08-07T18:47Z,M1.0,N14E37,11093,,2015-07-16T19:02Z,2,https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/716/2,,20100807-AL-001 (2010-08-07T20:35Z) https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/717/1
